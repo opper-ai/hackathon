@@ -68,7 +68,7 @@ We’ve compiled some example projects to get you started. Feel free to pick any
       Database integration, SQL natural lang assistant
     </td>
     <td>
-      language-to-sql](https://docs.opper.ai/examples/language-to-sql)
+      [language-to-sql](https://docs.opper.ai/examples/language-to-sql)
     </td>
     <td>
       [example-sql-assistant](https://github.com/opper-ai/example-sql-assistant)
