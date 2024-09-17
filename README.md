@@ -18,15 +18,6 @@ Opper ([opper.ai](https://opper.ai)) is an integrated platform to build producti
 
 - Build from a secure, compliant and European foundation. Opper is built for compliance: GDPR, SOC2, DORA, and EU-ready. Focus on value while we handle regulations.
 
-## Resources
-Go to [docs.opper.ai](docs.opper.ai) for all documentation and links to our repos and open sourced projects.
-
-Go to [opper.ai](opper.ai) to get a general idea of what Opper is and take a glance at what others are building with Opper.
-
-You can use Opper's API ([HTTP API Reference](https://api.opper.ai/docs)) or one of the SDKs:
-- Python: pip install opperai ([Git repo](https://github.com/opper-ai/opper-python))
-- Typescript: npm install opperai ([Git repo](https://github.com/opper-ai/opper-node))
-
 ## Contact us
 Join our community on Discord [Opper Community](https://discord.gg/N3RjGG7PBb).
 
@@ -96,3 +87,12 @@ We’ve compiled some example projects to get you started. Feel free to pick any
 
 ## Hackathon scoring and prizes
 We keep it simple, quick vote on the coolest hack. Winner get some cool swag ;)
+
+## Resources
+Go to [docs.opper.ai](docs.opper.ai) for all documentation and links to our repos and open sourced projects.
+
+Go to [opper.ai](opper.ai) to get a general idea of what Opper is and take a glance at what others are building with Opper.
+
+You can use Opper's API ([HTTP API Reference](https://api.opper.ai/docs)) or one of the SDKs:
+- Python: pip install opperai ([Git repo](https://github.com/opper-ai/opper-python))
+- Typescript: npm install opperai ([Git repo](https://github.com/opper-ai/opper-node))
