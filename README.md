@@ -43,7 +43,7 @@ We've compiled examples below (see table) that includes elements of RAG, few sho
 Before the hackathon, please take a look an take note of an example you want to build from. This will help you divide into teams that want to build on the same.
 
 ### During the hackathon
-In case you don’t want to work on the issues described in the issues area, feel free to create your own hack.
+In case you don’t want to build from the examples below, feel free to create your own hack. But please, have this prepared in beforehand so that we don't spend the hack time to try to come up with an idea ;)
 
 ### After the hackathon
 Show and tell together, let’s share learning and challenges. The best hack wins some cool swag ;)
