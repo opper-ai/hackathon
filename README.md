@@ -8,20 +8,15 @@ xxx
 ## What is Opper?
 Opper is an integrated platform to build production grade generative AI features, chatbots, and agents. 
 
-### Build
-Build structured, model independent LLM calls. Interact with frontier, open-source, and multimodal models using a unified, structured syntax. We empower you to instruct models as code, and reduce the need for complex prompts. 
+- Build structured, model independent LLM calls. Interact with frontier, open-source, and multimodal models using a unified, structured syntax. We empower you to instruct models as code, and reduce the need for complex prompts. 
 
-### Integrate
-Integrate your own data and knowledge. Opper enables both indexing and retrieval of the semantically relevant parts of data and connect it to calls, while you retain full integration control.
+- Integrate your own data and knowledge. Opper enables both indexing and retrieval of the semantically relevant parts of data and connect it to calls, while you retain full integration control.
 
-### Observe
-Trace every call and session for full visibility. Track every AI interaction: view sessions, calls, outputs, feedback, reasoning, and costs as easy to understand real-time traces.
+- Trace every call and session for full visibility. Track every AI interaction: view sessions, calls, outputs, feedback, reasoning, and costs as easy to understand real-time traces.
 
-### Optimize
-Optimize quality, security, cost and speed in production. Automate LLM tuning with Opper Functions. Optimal models and configs, identified through continuous evaluations and feedback.
+- Optimize quality, security, cost and speed in production. Automate LLM tuning with Opper Functions. Optimal models and configs, identified through continuous evaluations and feedback.
 
-### Comply
-Build from a secure, compliant and European foundation. Opper is built for compliance: GDPR, SOC2, DORA, and EU-ready. Focus on value while we handle regulations.
+- Build from a secure, compliant and European foundation. Opper is built for compliance: GDPR, SOC2, DORA, and EU-ready. Focus on value while we handle regulations.
 
 ## Joining In
 This hackathon is an on site hackathon. We do offer online hackathons as well, be on the lookout for these.
@@ -31,6 +26,10 @@ This is an invite only event, and if you receive this information you are invite
 
 ### Before the hackathon
 Please make sure you have created your Opper account, logged in and followed the instructions to generate your first call. You might want to get an Opper SDK as well (Python pip install opperai / Typescript npm install opperai). This will ensure that everything works smoothly when we begin the hackathon.
+
+We've compiled examples below (see table) that includes elements of RAG, few shot prompting etc so get you started and inspire you. 
+
+Before the hackathon, please take a look an take note of an example you want to build from. This will help you divide into teams that want to build on the same.
 
 ### During the hackathon
 In case you don’t want to work on the issues described in the issues area, feel free to create your own hack.
