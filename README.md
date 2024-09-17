@@ -29,7 +29,7 @@ If you are invited to this hackathon, please RSVP so that we can plan accordingl
 
 ### Duration
 We tend to keep our hackathons to 4 hours. Generally, this boils down to:
-- 30min to get started in teams or individually
+- 30 mins intro and to get started in teams or individually
 - Build for 3 hours
 - 30 mins for show n tell and declare "a winner"
 
