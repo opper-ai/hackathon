@@ -44,7 +44,9 @@ To be efficient with the time we have, please go through this checklist before t
 In case you don’t want to build from the examples below, feel free to create your own hack. But please, have this prepared in beforehand so that we don't spend the hack time to try to come up with an idea ;)
 
 ### After the hackathon
-Show and tell together, let’s share learning and challenges. The best hack wins some cool swag ;)
+Show and tell together, let’s share learning and challenges. 
+
+We vote with the raise of hands. The best hack wins some cool swag ;)
 
 ## Examples to get you started
 We’ve compiled some example projects to get you started. Feel free to pick any one of them and go ahead. Please read below to get some info on focus areas.
