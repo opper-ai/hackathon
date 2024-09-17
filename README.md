@@ -18,6 +18,11 @@ Opper is an integrated platform to build production grade generative AI features
 
 - Build from a secure, compliant and European foundation. Opper is built for compliance: GDPR, SOC2, DORA, and EU-ready. Focus on value while we handle regulations.
 
+### Resources
+Go to docs.opper.ai for all documentation and links to our repos and open sourced projects.
+
+Go to opper.ai to get a general idea of what Opper is and take a glance at what others are building with Opper.
+
 ## Joining In
 This hackathon is an on site hackathon. We do offer online hackathons as well, be on the lookout for these.
 
