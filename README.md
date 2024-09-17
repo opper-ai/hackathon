@@ -89,8 +89,8 @@ We’ve compiled some example projects to get you started. Feel free to pick any
 We keep it simple, quick vote on the coolest hack. Winner get some cool swag ;)
 
 ## Resources
-[docs.opper.ai](docs.opper.ai)
-[opper.ai](opper.ai)
-([HTTP API Reference](https://api.opper.ai/docs))
-[Python SDK](https://github.com/opper-ai/opper-python)
-[Typescript SDK](https://github.com/opper-ai/opper-node)
+- [docs.opper.ai](docs.opper.ai)
+- [opper.ai](opper.ai)
+- ([HTTP API Reference](https://api.opper.ai/docs))
+- [Python SDK](https://github.com/opper-ai/opper-python)
+- [Typescript SDK](https://github.com/opper-ai/opper-node)
