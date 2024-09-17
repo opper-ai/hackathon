@@ -3,7 +3,7 @@
 Get together with the Opper community and build with LLMs, free access to RAG, few shot prompting and other techniques to build with quality. Learn and share with friends and colleagues and win some nice swag ;)
 
 ## Why do a Hackathon with Opper?
-xxx 
+A hackathon with Opper is a great way to experience building LLMs. As many of you have undoubtly have heard, it's quite easy to make a demo with LLMs but trying to build something that can become geared towards production grade, is quite tricky indeed. Opper is a platform that integrates the necessary tools in a single toolbox that enables you to build for production.
 
 ## What is Opper?
 Opper is an integrated platform to build production grade generative AI features, chatbots, and agents. 
@@ -20,9 +20,6 @@ Opper is an integrated platform to build production grade generative AI features
 
 ## Joining In
 This hackathon is an on site hackathon. We do offer online hackathons as well, be on the lookout for these.
-
-### RSVP to the event
-This is an invite only event, and if you receive this information you are invited - please RSVP Yes / No so that we can plan accordingly.
 
 ### Before the hackathon
 Please make sure you have created your Opper account, logged in and followed the instructions to generate your first call. You might want to get an Opper SDK as well (Python pip install opperai / Typescript npm install opperai). This will ensure that everything works smoothly when we begin the hackathon.
