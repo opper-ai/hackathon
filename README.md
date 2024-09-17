@@ -33,7 +33,11 @@ This hackathon is an on site hackathon. We do offer online hackathons as well, b
 ## RVSP to the event
 If you are invited to this hackathon, please RSVP so that we can plan accordingly.
 
-We tend to keep our hackathons to 4 hours. Generally, this boils down to 15-30min to get started in teams or individually, build for 3 hours and then 30 mins for show n tell and declare the "winner" :)
+## Duration
+We tend to keep our hackathons to 4 hours. Generally, this boils down to:
+- 30min to get started in teams or individually
+- Build for 3 hours
+- 30 mins for show n tell and declare "a winner"
 
 ### Before the hackathon
 Please make sure you have created your Opper account [here](https://platform.opper.ai/auth/signin), logged in and followed the instructions to generate your first call. You might want to get an Opper SDK as well (Python pip install opperai / Typescript npm install opperai). This will ensure that everything works smoothly when we begin the hackathon.
