@@ -23,6 +23,10 @@ Go to [docs.opper.ai](docs.opper.ai) for all documentation and links to our repo
 
 Go to [opper.ai](opper.ai) to get a general idea of what Opper is and take a glance at what others are building with Opper.
 
+You can use Opper's API [HTTP API Reference](https://api.opper.ai/docs) or one of the SDKs:
+- Python: pip install opperai [Git repo](https://github.com/opper-ai/opper-python)
+- Typescript: npm install opperai [Git repo](https://github.com/opper-ai/opper-node)
+
 ## Joining In
 This hackathon is an on site hackathon. We do offer online hackathons as well, be on the lookout for these.
 
