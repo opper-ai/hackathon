@@ -39,9 +39,12 @@ To be efficient with the time we have, please go through this checklist before t
 3. Login and follow the instructions to generate your first call.
 4. Decide if you want to use the HTTP API, Python SDK (pip install opperai) or Typescript SDK (npm install opperai).
 5. We've compiled examples below (see table) that includes elements of RAG, few shot prompting etc so get you started and inspire you. Before the hackathon, please take a look an take note of an example you want to build from. This will help you divide into teams that want to build on the same.
+6. Opper team is here to assist. During the hackathon, there will be engineers from Opper available to assist you in person but also in our Discord [Community Community](https://discord.gg/N3RjGG7PBb). Join it now, so that you can reach out during the Hackathon.
 
 ### During the hackathon
 In case you don’t want to build from the examples below, feel free to create your own hack. But please, have this prepared in beforehand so that we don't spend the hack time to try to come up with an idea ;)
+
+
 
 ### After the hackathon
 Show and tell together, let’s share learning and challenges. 
