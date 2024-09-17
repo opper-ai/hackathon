@@ -18,7 +18,7 @@ Opper ([opper.ai](https://opper.ai)) is an integrated platform to build producti
 
 - Build from a secure, compliant and European foundation. Opper is built for compliance: GDPR, SOC2, DORA, and EU-ready. Focus on value while we handle regulations.
 
-### Resources
+## Resources
 Go to [docs.opper.ai](docs.opper.ai) for all documentation and links to our repos and open sourced projects.
 
 Go to [opper.ai](opper.ai) to get a general idea of what Opper is and take a glance at what others are building with Opper.
@@ -27,24 +27,27 @@ You can use Opper's API ([HTTP API Reference](https://api.opper.ai/docs)) or one
 - Python: pip install opperai ([Git repo](https://github.com/opper-ai/opper-python))
 - Typescript: npm install opperai ([Git repo](https://github.com/opper-ai/opper-node))
 
-## Joining In
-This hackathon is an on site hackathon. We do offer online hackathons as well, be on the lookout for these.
+## Contact us
+Join our community on Discord [Opper Community](https://discord.gg/N3RjGG7PBb).
 
-## RVSP to the event
+## Joining In
+This is an on site hackathon. We do offer online hackathons as well, be on the lookout for these.
+
+### RVSP to the event
 If you are invited to this hackathon, please RSVP so that we can plan accordingly.
 
-## Duration
+### Duration
 We tend to keep our hackathons to 4 hours. Generally, this boils down to:
 - 30min to get started in teams or individually
 - Build for 3 hours
 - 30 mins for show n tell and declare "a winner"
 
 ### Before the hackathon
-Please make sure you have created your Opper account [here](https://platform.opper.ai/auth/signin), logged in and followed the instructions to generate your first call. You might want to get an Opper SDK as well (Python pip install opperai / Typescript npm install opperai). This will ensure that everything works smoothly when we begin the hackathon.
-
-We've compiled examples below (see table) that includes elements of RAG, few shot prompting etc so get you started and inspire you. 
-
-Before the hackathon, please take a look an take note of an example you want to build from. This will help you divide into teams that want to build on the same.
+To be efficient with the time we have, please go through this checklist before the hackathon:
+1. Create your Opper account [here](https://platform.opper.ai/auth/signin)
+2. Login and follow the instructions to generate your first call.
+3. Decide if you want to use the HTTP API, Python SDK (pip install opperai) or Typescript SDK (npm install opperai).
+4. We've compiled examples below (see table) that includes elements of RAG, few shot prompting etc so get you started and inspire you. Before the hackathon, please take a look an take note of an example you want to build from. This will help you divide into teams that want to build on the same.
 
 ### During the hackathon
 In case you don’t want to build from the examples below, feel free to create your own hack. But please, have this prepared in beforehand so that we don't spend the hack time to try to come up with an idea ;)
