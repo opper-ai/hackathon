@@ -68,10 +68,10 @@ We’ve compiled some example projects to get you started. Feel free to pick any
       Database integration, SQL natural lang assistant
     </td>
     <td>
-      [docs.opper.ai/examples/language-to-sql](https://docs.opper.ai/examples/language-to-sql)
+      language-to-sql](https://docs.opper.ai/examples/language-to-sql)
     </td>
     <td>
-      [github.com/opper-ai/example-sql-assistant](https://github.com/opper-ai/example-sql-assistant)
+      [example-sql-assistant](https://github.com/opper-ai/example-sql-assistant)
     </td>
   </tr>
   <tr>
@@ -79,10 +79,10 @@ We’ve compiled some example projects to get you started. Feel free to pick any
       Simple chat portal built with Opper and Streamlit
     </td>
     <td>
-      [docs.opper.ai/examples/streamlit](https://docs.opper.ai/examples/streamlit)
+      [streamlit](https://docs.opper.ai/examples/streamlit)
     </td>
     <td>
-      [github.com/opper-ai/example-streamlit-opper](https://github.com/opper-ai/example-streamlit-opper)
+      [example-streamlit-opper](https://github.com/opper-ai/example-streamlit-opper)
     </td>
   </tr>
 </table>
