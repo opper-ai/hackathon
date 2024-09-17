@@ -57,21 +57,32 @@ We’ve compiled some example projects to get you started. Feel free to pick any
       Focus area
     </td>
     <td>
-      Guide
+      Docs
     </td>
     <td>
-      Repository
+      Repo
     </td>
   </tr>
   <tr>
     <td>
-      QNA
+      Database integration, SQL natural lang assistant
     </td>
     <td>
-      Link to a guide
+      [docs.opper.ai/examples/language-to-sql](https://docs.opper.ai/examples/language-to-sql)
     </td>
     <td>
-      Link to repo
+      [github.com/opper-ai/example-sql-assistant](https://github.com/opper-ai/example-sql-assistant)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Simple chat portal built with Opper and Streamlit
+    </td>
+    <td>
+      [docs.opper.ai/examples/streamlit](https://docs.opper.ai/examples/streamlit)
+    </td>
+    <td>
+      [github.com/opper-ai/example-streamlit-opper](https://github.com/opper-ai/example-streamlit-opper)
     </td>
   </tr>
 </table>
