@@ -35,10 +35,10 @@ We tend to keep our hackathons to 4 hours. Generally, this boils down to:
 
 ### Before the hackathon
 To be efficient with the time we have, please go through this checklist before the hackathon:
-1. Create your Opper account [here](https://platform.opper.ai/auth/signin)
-2. Login and follow the instructions to generate your first call.
-3. Decide if you want to use the HTTP API, Python SDK (pip install opperai) or Typescript SDK (npm install opperai).
-4. We've compiled examples below (see table) that includes elements of RAG, few shot prompting etc so get you started and inspire you. Before the hackathon, please take a look an take note of an example you want to build from. This will help you divide into teams that want to build on the same.
+1. Create your Opper account [here](https://platform.opper.ai/auth/signin) (it's free for the Hackathon, don't worry)
+3. Login and follow the instructions to generate your first call.
+4. Decide if you want to use the HTTP API, Python SDK (pip install opperai) or Typescript SDK (npm install opperai).
+5. We've compiled examples below (see table) that includes elements of RAG, few shot prompting etc so get you started and inspire you. Before the hackathon, please take a look an take note of an example you want to build from. This will help you divide into teams that want to build on the same.
 
 ### During the hackathon
 In case you don’t want to build from the examples below, feel free to create your own hack. But please, have this prepared in beforehand so that we don't spend the hack time to try to come up with an idea ;)
