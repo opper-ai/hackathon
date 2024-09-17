@@ -1,6 +1,6 @@
 # Generative AI Hackathon with Opper
 
-Get together with the Opper community and build with LLMs, free access to RAG, few shot prompting and other techniques to build with quality. Learn and share with friends and colleagues and win some nice swag ;)
+Get together with the Opper community and build with LLMs, free access to tokens from a lot of different models ([Model list](https://docs.opper.ai/functions/models)), RAG, few shot prompting and other techniques to build with quality. Learn and share with friends and colleagues and win some nice swag ;)
 
 ## Why do a Hackathon with Opper?
 A hackathon with Opper is a great way to experience building LLMs. As many of you have undoubtly have heard, it's quite easy to make a demo with LLMs but trying to build something that can become geared towards production grade, is quite tricky indeed. Opper is a platform that integrates the necessary tools in a single toolbox that enables you to build for production.
