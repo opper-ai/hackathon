@@ -21,7 +21,7 @@ Opper ([opper.ai](https://opper.ai)) is an integrated platform to build producti
 ## Contact us
 Join our community on Discord [Opper Community](https://discord.gg/N3RjGG7PBb).
 
-## Joining In
+## Hackathon Format
 This is an on site hackathon. We do offer online hackathons as well, be on the lookout for these.
 
 ### RVSP to the event
