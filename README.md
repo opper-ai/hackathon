@@ -89,10 +89,8 @@ We’ve compiled some example projects to get you started. Feel free to pick any
 We keep it simple, quick vote on the coolest hack. Winner get some cool swag ;)
 
 ## Resources
-Go to [docs.opper.ai](docs.opper.ai) for all documentation and links to our repos and open sourced projects.
-
-Go to [opper.ai](opper.ai) to get a general idea of what Opper is and take a glance at what others are building with Opper.
-
-You can use Opper's API ([HTTP API Reference](https://api.opper.ai/docs)) or one of the SDKs:
-- Python: pip install opperai ([Git repo](https://github.com/opper-ai/opper-python))
-- Typescript: npm install opperai ([Git repo](https://github.com/opper-ai/opper-node))
+[docs.opper.ai](docs.opper.ai)
+[opper.ai](opper.ai)
+([HTTP API Reference](https://api.opper.ai/docs))
+[Python SDK](https://github.com/opper-ai/opper-python)
+[Typescript SDK](https://github.com/opper-ai/opper-node)
