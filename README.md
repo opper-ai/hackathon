@@ -34,12 +34,13 @@ We tend to keep our hackathons to 4 hours. Generally, this boils down to:
 - 30 mins for show n tell and declare "a winner"
 
 ### Before the hackathon
-To be efficient with the time we have, please go through this checklist before the hackathon:
-1. Create your Opper account [here](https://platform.opper.ai/auth/signin) (it's free for the Hackathon, don't worry)
-3. Login and follow the instructions to generate your first call.
-4. Decide if you want to use the HTTP API, Python SDK (pip install opperai) or Typescript SDK (npm install opperai).
-5. We've compiled examples below (see table) that includes elements of RAG, few shot prompting etc so get you started and inspire you. Before the hackathon, please take a look an take note of an example you want to build from. This will help you divide into teams that want to build on the same.
-6. Opper team is here to assist. During the hackathon, there will be engineers from Opper available to assist you in person but also in our Discord [Community](https://discord.gg/N3RjGG7PBb). Join it now, so that you can reach out during the Hackathon or if you need assistance with any of the preparing steps.
+To be efficient with the time we have, we've made a checklist here.
+
+Checklist for attendees:
+1. Create your Opper account [here](https://platform.opper.ai/auth/signin) and generate the sample call when logging in
+2. Decide how you want to integrate (Python SDK (pip install opperai), TypeScript SDK (npm install opperai), API)
+3. Know what to build. We have a list of examples below which includes techniques like RAG, few-shot prompting etc, to get you started.
+4. Join the [Discord](https://discord.gg/N3RjGG7PBb). Opper engineers are here to assist you in person, but the discord can be used both before, during and after the hackathon if you have any questions.
 
 ### During the hackathon
 In case you don’t want to build from the examples below, feel free to create your own hack. But please, have this prepared in beforehand so that we don't spend the hack time to try to come up with an idea ;)
