@@ -6,7 +6,7 @@ Get together with the Opper community and build with LLMs, free access to tokens
 A hackathon with Opper is a great way to experience building LLMs. As many of you have undoubtly have heard, it's quite easy to make a demo with LLMs but trying to build something that can become geared towards production grade, is quite tricky indeed. Opper is a platform that integrates the necessary tools in a single toolbox that enables you to build for production.
 
 ## What is Opper?
-Opper is an integrated platform to build production grade generative AI features, chatbots, and agents. 
+Opper ([opper.ai](https://opper.ai)) is an integrated platform to build production grade generative AI features, chatbots, and agents. 
 
 - Build structured, model independent LLM calls. Interact with frontier, open-source, and multimodal models using a unified, structured syntax. We empower you to instruct models as code, and reduce the need for complex prompts. 
 
