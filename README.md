@@ -61,9 +61,6 @@ We’ve compiled some example projects to get you started. Feel free to pick any
       Focus area
     </td>
     <td>
-      Docs
-    </td>
-    <td>
       Repo
     </td>
   </tr>
@@ -72,18 +69,12 @@ We’ve compiled some example projects to get you started. Feel free to pick any
       Database integration, SQL natural lang assistant
     </td>
     <td>
-      https://docs.opper.ai/examples/language-to-sql
-    </td>
-    <td>
       https://github.com/opper-ai/example-sql-assistant
     </td>
   </tr>
   <tr>
     <td>
       Simple chat portal built with Opper and Streamlit
-    </td>
-    <td>
-      https://docs.opper.ai/examples/streamlit
     </td>
     <td>
       https://github.com/opper-ai/example-streamlit-opper
