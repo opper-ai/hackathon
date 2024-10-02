@@ -1,6 +1,6 @@
 # Generative AI Hackathon with Opper
 
-Get together with the Opper community and build with LLMs, free access to tokens from a lot of different models ([Model list](https://docs.opper.ai/functions/models)), RAG, few shot prompting and other techniques to build with quality. Learn and share with friends and colleagues and win some nice swag ;)
+Get together with the Opper community and build with LLMs, free access to tokens from a lot of different models ([Model list](https://docs.opper.ai/functions/models)), RAG, few shot prompting and other techniques to build with quality. Learn and share with friends and colleagues.
 
 ## Why do a Hackathon with Opper?
 A hackathon with Opper is a great way to experience building LLMs. As many of you have undoubtly have heard, it's quite easy to make a demo with LLMs but trying to build something that can become geared towards production grade, is quite tricky indeed. Opper is a platform that integrates the necessary tools in a single toolbox that enables you to build for production.
@@ -43,14 +43,12 @@ Checklist for attendees:
 4. Join the [Discord](https://discord.gg/N3RjGG7PBb). Opper engineers are here to assist you in person, but the discord can be used both before, during and after the hackathon if you have any questions.
 
 ### During the hackathon
-In case you don’t want to build from the examples below, feel free to create your own hack. But please, have this prepared in beforehand so that we don't spend the hack time to try to come up with an idea ;)
-
-
+In case you don’t want to build from the examples below, feel free to create your own hack. But please, have this prepared in beforehand so that we don't spend the hack time to try to come up with an idea.
 
 ### After the hackathon
 Show and tell together, let’s share learning and challenges. 
 
-We vote with the raise of hands. The best hack wins some cool swag ;)
+We vote with the raise of hands. The best hack wins some cool swag.
 
 ## Examples to get you started
 We’ve compiled some example projects to get you started. Feel free to pick any one of them and go ahead. Please read below to get some info on focus areas.
@@ -83,11 +81,11 @@ We’ve compiled some example projects to get you started. Feel free to pick any
 </table>
 
 ## Hackathon scoring and prizes
-We keep it simple, quick vote on the coolest hack. Winner get some cool swag ;)
+Keep it simple, quick vote on the coolest hack.
 
 ## Resources
 - [docs.opper.ai](docs.opper.ai)
-- [opper.ai](opper.ai)
 - [HTTP API Reference](https://api.opper.ai/docs)
 - [Python SDK](https://github.com/opper-ai/opper-python)
 - [Typescript SDK](https://github.com/opper-ai/opper-node)
+- [opper.ai](opper.ai)
